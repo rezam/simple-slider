@@ -2,7 +2,7 @@
 
 Add simpleslider.js and simpleslider.css to your HTML file and create slider like this:
 
-```JS
+```HTML
 <div id="simple-slider">
   <div class="img-slider">
     <img class="slide showing" src="1.jpg" alt="1">
