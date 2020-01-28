@@ -2,7 +2,7 @@
 
 Add simpleslider.js and simpleslider.css to your HTML file and create slider like this:
 
-```
+```JS
 <div id="simple-slider">
   <div class="img-slider">
     <img class="slide showing" src="1.jpg" alt="1">
@@ -14,5 +14,5 @@ Add simpleslider.js and simpleslider.css to your HTML file and create slider lik
   </div>
 </div>
 ```
-
+-> Preferred slide height size would be 500px;
 ### v1.0: 2020/28/01
